@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Salman%20Alm&fontSize=40&fontColor=ffffff" />
+</p>
+
+
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Salman</h1>
 <h3 align="center">iOS Developer • AI Builder • Software Engineer</h3>
