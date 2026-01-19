@@ -77,12 +77,12 @@ An AI-powered application currently in development. More details coming soon.
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=salmanalmutairi1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=salmanalmutairi1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalmutairi1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 </p>
 
 <br/>
@@ -110,7 +110,7 @@ An AI-powered application currently in development. More details coming soon.
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="contribution animation" />
+  <img src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/output/snake.svg" alt="contribution animation" />
 </p>
 
 <br/>
