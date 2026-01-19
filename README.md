@@ -1,87 +1,121 @@
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Salman%20Almutairi&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Salman%20Almutairi&fontSize=42&fontColor=ffffff&fontAlignY=50" />
 </p>
 
+<br/>
 
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">iOS Developer • AI Builder • Software Engineer</h3>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## About
+
+I am a Software Engineering student at King Saud University with a strong focus on full-stack development and artificial intelligence. I am actively seeking a high-impact Co-op opportunity where I can contribute to meaningful projects while continuing to grow as an engineer.
+
+I am highly productive, a fast learner, and adapt quickly to new tools, frameworks, and workflows. My experience spans building mobile applications, web platforms, and integrating AI-driven features into production systems.
+
+<br/>
+
+---
+
+<br/>
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=iOS+Developer+%F0%9F%93%B1;Swift+%7C+SwiftUI+%7C+Supabase+%7C+APIs;Building+AI-powered+Apps+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,react,php,nodejs,python,js,postgres,supabase,firebase,figma,git,github&theme=dark" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## Featured Projects
+
+<br/>
+
+### KSUMarket
+
+A verified student marketplace platform exclusively for King Saud University. The platform enables students to buy, sell, and trade academic materials, electronics, and personal items within a secure, university-verified environment. Built with a focus on trust, usability, and seamless transactions between verified KSU students.
+
+**Website:** [ksumarket.com](https://ksumarket.com)  
+**Repository:** Private
+
+<br/>
+
+### Halah
+
+A modern iOS application built with SwiftUI following clean architecture principles. Designed for scalability and maintainability, Halah demonstrates production-ready code structure with proper separation of concerns, dependency injection, and reactive data flow patterns.
+
+**Platform:** iOS  
+**Tech Stack:** Swift, SwiftUI
+
+<br/>
+
+### YAS AI
+
+An AI-powered application currently in development. More details coming soon.
+
+**Status:** Coming Soon
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/salman-almutairi-9b860324b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+  </a>
+  <a href="mailto:salmanmajed.sma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
 </p>
 
----
-
-## 🧠 About Me
-- 🔥 I build **iOS apps** with **Swift / SwiftUI**
-- 🤖 I integrate **AI** into real products (Vision, Chatbots, TTS)
-- 🗄️ I work with **Supabase**, APIs, Auth, Databases
-- 📌 Current focus: **Shipping polished apps + clean UI/UX**
-- 🎯 Goal: Become a top-tier developer and build products people love
+<br/>
 
 ---
 
-## 🧰 Tech Stack
+<br/>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,figma,js,html,css,python,git,github,postgres,supabase,firebase" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="contribution animation" />
 </p>
 
----
+<br/>
 
-## 📈 GitHub Stats (Live)
+<!-- FOOTER -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🚀 Featured Projects
-### 🔹 Salman Chatbot (Streamlit + AI)
-✅ Multi-persona chatbot + voice interaction + dark UI  
-🔗 Repo: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-
-### 🔹 Waraq (iOS Book Library App)
-✅ SwiftData + Google Books API + Library UI  
-🔗 Repo: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-
-### 🔹 StackClone (Q&A Web App)
-✅ Voting + AJAX + Auth + image uploads  
-🔗 Repo: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- SNAKE ANIMATION (optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" />
 </p>
