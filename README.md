@@ -29,7 +29,7 @@ Final semester **Software Engineering** student at **King Saud University** who 
 ## 🏆 Certifications & Recognition
 
 ```
-📜 Apple AI Foundation × Tuwaiq Academy                    August 2024
+📜 Apple AI Foundation × Tuwaiq Academy                    August 2025
 📜 ISTQB® Certified Tester Foundation Level (CTFL)         February 2025
 📜 BSF Financial Sustainability · Udacity                  January 2025
 📜 رخصة طالب مهندس برمجيات (Saudi Software Engineer)       Valid until Sep 2026
