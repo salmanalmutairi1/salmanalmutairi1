@@ -11,172 +11,170 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanalmutairi1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Graduating%202025-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Graduating%202026-00D9FF?style=for-the-badge" />
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/main/GIF.gif">
 
 ## 👨‍💻 About Me
 
-Final semester **Software Engineering** student at **King Saud University** who builds and ships real products that people actually use. I don't just code—I architect solutions, solve impossible problems, and turn ideas into live applications.
+Final semester **Software Engineering** student at **King Saud University** who builds and ships real products. I architect solutions, solve problems, and turn ideas into live applications.
 
-**What sets me apart:** I ship fast, iterate faster, and know that every tool has its place. Whether it's bypassing university Wi-Fi restrictions with Cloudflare Workers or building AI systems that remember context across conversations, I find the elegant solution.
+🎯 Seeking high-impact Co-op opportunities in production systems
+🚀 I ship fast, iterate faster, and know every tool has its place  
+🤝 Looking to collaborate with other developers to build great stuff  
 
-🎯 **Currently:** Seeking high-impact Co-op opportunities where I can contribute to production systems and scalable architectures.
+## 📫 Let's Connect
 
----
-
-## 🏆 Certifications & Recognition
-
-```
-📜 Apple AI Foundation × Tuwaiq Academy                    August 2025
-📜 ISTQB® Certified Tester Foundation Level (CTFL)         February 2025
-📜 BSF Financial Sustainability · Udacity                  January 2025
-📜 رخصة طالب مهندس برمجيات (Saudi Software Engineer)       Valid until Sep 2026
-📜 Additional certifications on LinkedIn
-```
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,react,nextjs,nodejs,python,js,typescript,php,postgres,supabase,firebase,cloudflare,git,github,figma,vercel&theme=dark&perline=9" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/salman-almutairi-9b860324b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:salmanmajed.sma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ksumarket.com">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <em>Every tool contributes to the complete picture. I choose the right one for the job.</em>
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="45" height="45"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="45" height="45"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 **KSUMarket** — Verified Student Marketplace
-<img align="right" width="100" src="https://img.shields.io/badge/100+-Users-success?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/main/Developing%20Video%20Games%20Sticker%20by%20CGBOT.gif">
 
-A production marketplace exclusively for King Saud University students. Buy, sell, and trade within a verified, trusted environment.
+### 🛒 **KSUMarket**
+<img src="https://img.shields.io/badge/100+-Users-success?style=flat-square&logo=flutter"/>
 
-**The Problem We Solved:** Firebase was completely blocked on KSU Wi-Fi. Most teams would give up. We designed a proxy architecture using **Cloudflare Workers** as a middleware layer between the Flutter app and Firebase services—ensuring reliable on-campus connectivity.
+Verified student marketplace for King Saud University. Custom Cloudflare Workers proxy architecture to bypass Firebase restrictions on campus Wi-Fi.
 
-**Tech Stack:**
-- **Frontend:** Flutter (iOS & Android)
-- **Backend:** Firebase (Firestore, Auth, Cloud Functions, Storage, Analytics)
-- **Infrastructure:** Cloudflare Workers (Proxy Layer), Cloudflare CDN
-- **Architecture:** Custom proxy pattern for restricted network environments
+**Stack:** Flutter • Firebase • Cloudflare Workers
 
-**Impact:** 100+ active verified students, seamless transactions, zero downtime on campus.
-
-**Links:**  
-🔗 [ksumarket.com](https://ksumarket.com)  
-📱 [Download on App Store](https://apps.apple.com/sa/app/ksumarket/id6755161484?l=ar)
+🔗 [ksumarket.com](https://ksumarket.com) • 📱 [App Store](https://apps.apple.com/sa/app/ksumarket/id6755161484?l=ar)
 
 ---
 
-### 🌙 **Halah (هالة)** — Mood & Mindfulness Companion
-<img align="right" width="100" src="https://img.shields.io/badge/Live-App%20Store-blue?style=for-the-badge&logo=apple&logoColor=white"/>
+### 🌙 **Halah (هالة)**
+<img src="https://img.shields.io/badge/Live-App%20Store-blue?style=flat-square&logo=apple"/>
 
-An elegant iOS app that helps you understand and express your emotions. Choose your planet, journal your feelings, practice breathing exercises, and track monthly patterns—all in a beautifully simple interface.
+Mood & mindfulness iOS app. Planet-based mood tracking, breathing exercises, and monthly analytics with clean SwiftUI architecture.
 
-**What Makes It Special:**
-- Planet-based mood selection system
-- Quick emotion journaling
-- Guided breathing exercises with visual feedback
-- Focus companion (Tayyf Assistant)
-- Daily task management
-- Monthly analytics with pattern recognition
-- Interactive UI with calming color palettes
+**Stack:** SwiftUI • SwiftData • WidgetKit
 
-**Built With:**
-- **SwiftUI** with clean architecture
-- **SwiftData** for local persistence
-- **WidgetKit** for home screen widgets
-- Reactive data flow patterns
-- Dependency injection
-
-**Philosophy:** Making self-awareness a gentle, daily habit.
-
-**Links:**  
-📱 [Download on App Store](https://apps.apple.com/sa/app/halah-%D9%87%D8%A7%D9%84%D8%A9/id6751225724?l=ar)  
-📝 [Development Story](https://www.linkedin.com/posts/salman-almutairi-9b860324b_over-the-past-5-weeks-i-graduated-from-the-ugcPost-7365317434448289792--Kap)
+📱 [App Store](https://apps.apple.com/sa/app/halah-%D9%87%D8%A7%D9%84%D8%A9/id6751225724?l=ar) • 📝 [Story](https://www.linkedin.com/posts/salman-almutairi-9b860324b_over-the-past-5-weeks-i-graduated-from-the-ugcPost-7365317434448289792--Kap)
 
 ---
 
-### 🤖 **YAS AI** — Idea to Deployed App in 6 Steps
-<img align="right" width="100" src="https://img.shields.io/badge/AI-Powered-ff69b4?style=for-the-badge&logo=openai&logoColor=white"/>
+### 🤖 **YAS AI**
+<img src="https://img.shields.io/badge/AI-Powered-ff69b4?style=flat-square&logo=openai"/>
 
-A revolutionary platform that takes anyone from "I have an idea" to "My app is live on the internet" without writing a single line of code. YAS democratizes software creation through AI-guided workflows.
+From "I have an idea" to "My app is live" in 6 AI-guided steps. 6 specialized AI personas, step-locked learning, bilingual (EN/AR), zero-hallucination memory system.
 
-**The Vision:** 95% of people with app ideas never build them. YAS eliminates the coding barrier.
+**Stack:** Next.js • TypeScript • Custom RAG • IndexedDB
 
-**What Makes YAS Unique:**
-
-🎭 **6 AI Expert Personas**  
-Not one generic chatbot—specialized advisors for Design, Code, Database, Git, Testing, and Deployment that switch based on your step.
-
-🧠 **Memory That Never Forgets**  
-AI remembers your project name, features, and decisions across all steps. Zero hallucination through structured patch updates.
-
-🔒 **Step-Locked Mastery**  
-Can't skip ahead. Each step unlocks after completion—ensuring you actually learn the stack.
-
-💬 **MCQ-to-Prompt Magic**  
-Answer simple multiple-choice chips → get expert-level prompts for each tool automatically.
-
-🌍 **True Bilingual (EN/AR)**  
-Full Arabic RTL experience with cultural adaptation, not just translation.
-
-⚡ **Vibe Coding Methodology**  
-Describe → AI Builds → You Deploy
-
-**Technical Architecture:**
-- **Frontend:** Next.js, React, TypeScript
-- **AI Engine:** Custom RAG system with context-aware personas
-- **State Management:** Offline-first with IndexedDB (works without login)
-- **Integrations:** Stitch → AI Studio → Supabase → GitHub → Vercel
-- **UX:** Streaming typewriter responses, action cards, guided MCQ chips
-
-**Impact:** From weeks to days for MVP deployment. Real apps, not mockups.
-
-**Links:**  
 🚀 [Try YAS AI](https://yas-lac.vercel.app/)
 
----
-
-## 🎨 Design Philosophy
-
-> **"Every tool contributes to the complete picture. I choose the right one for the job."**
-
-I believe in building systems that are:
-- **Simple but not simplistic** — Elegant solutions to complex problems
-- **Fast but not fragile** — Performance without compromising stability
-- **Beautiful but not superficial** — Design that serves function
+**Questions?** Reach out—happy to discuss architecture decisions, AI integration, or scaling challenges.
 
 ---
 
-## 📫 Let's Connect
+## 💭 Design Philosophy
+
+```javascript
+const code = "First draft";
+const better_code = refactor(code);
+const best_code = refactor(better_code);
+// Repeat until elegant
+```
+
+> Write. Refine. Ship. Repeat.
+
+---
+
+## 📊 Contribution Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salman-almutairi-9b860324b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:salmanmajed.sma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://ksumarket.com">
-    <img src="https://img.shields.io/badge/Portfolio-KSUMarket-00D9FF?style=for-the-badge&logo=safari&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanalmutairi1&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
 </p>
-
-<p align="center">
-  <em>"Building the future, one commit at a time."</em>
-</p>
-
----
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/output/snake.svg" alt="contribution animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salmanalmutairi1&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Building the future, one commit at a time."</em>
 </p>
 
 <!-- FOOTER WAVE -->
