@@ -22,9 +22,9 @@
 
 Final semester **Software Engineering** student at **King Saud University** who builds and ships real products. I architect solutions, solve problems, and turn ideas into live applications.
 
-🎯 Seeking high-impact Co-op opportunities in production systems
-🚀 I ship fast, iterate faster, and know every tool has its place  
-🤝 Looking to collaborate with other developers to build great stuff  
+-🎯 Seeking high-impact Co-op opportunities in production systems
+-🚀 I ship fast, iterate faster, and know every tool has its place  
+-🤝 Looking to collaborate with other developers to build great stuff  
 
 ## 📫 Let's Connect
 
