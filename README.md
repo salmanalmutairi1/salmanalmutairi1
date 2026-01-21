@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanalmutairi1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Graduating%202026-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Graduating%202025-00D9FF?style=for-the-badge" />
 </p>
 
 ---
@@ -22,9 +22,9 @@
 
 Final semester **Software Engineering** student at **King Saud University** who builds and ships real products. I architect solutions, solve problems, and turn ideas into live applications.
 
--🎯 Seeking high-impact Co-op opportunities in production systems
--🚀 I ship fast, iterate faster, and know every tool has its place  
--🤝 Looking to collaborate with other developers to build great stuff  
+🚀 I ship fast, iterate faster, and know every tool has its place  
+🤝 Looking to collaborate with other developers to build great stuff  
+🎯 Seeking high-impact Co-op opportunities in production systems
 
 ## 📫 Let's Connect
 
@@ -75,6 +75,9 @@ Final semester **Software Engineering** student at **King Saud University** who 
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  </a>
   <a href="https://supabase.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="45" height="45"/>
   </a>
@@ -83,6 +86,9 @@ Final semester **Software Engineering** student at **King Saud University** who 
   </a>
   <a href="https://www.cloudflare.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
@@ -95,6 +101,9 @@ Final semester **Software Engineering** student at **King Saud University** who 
   </a>
   <a href="https://vercel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="45" height="45"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45"/>
   </a>
 </p>
 
@@ -141,14 +150,14 @@ From "I have an idea" to "My app is live" in 6 AI-guided steps. 6 specialized AI
 
 ## 💭 Design Philosophy
 
-```javascript
-const code = "First draft";
-const better_code = refactor(code);
-const best_code = refactor(better_code);
-// Repeat until elegant
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Every+tool+contributes+to+the+complete+picture.;I+choose+the+right+one+for+the+job." alt="Philosophy Typing" />
+</p>
 
-> Write. Refine. Ship. Repeat.
+I believe in building systems that are:
+- **Simple but not simplistic** — Elegant solutions to complex problems
+- **Fast but not fragile** — Performance without compromising stability
+- **Beautiful but not superficial** — Design that serves function
 
 ---
 
