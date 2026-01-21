@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanalmutairi1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Graduating%202025-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Graduating%202026-00D9FF?style=for-the-badge" />
 </p>
 
 ---
