@@ -107,6 +107,7 @@ Final semester **Software Engineering** student at **King Saud University** who 
 ---
 
 ## 🚀 Featured Projects
+
 <img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/main/Developing%20Video%20Games%20Sticker%20by%20CGBOT.gif">
 <img src="https://raw.githubusercontent.com/salmanalmutairi1/salmanalmutairi1/main/KSUM.png" width="30" height="30" /> KSUMarket
 <img src="https://img.shields.io/badge/100+-Users-success?style=flat-square&logo=flutter"/>
