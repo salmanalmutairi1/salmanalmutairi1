@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salman%20Almutairi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20•%20One%20Ship%20at%20a%20Time&descAlignY=55&descSize=18" />
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Software+Engineer+%7C+AI+Enthusiast+%7C+Serial+Builder;Shipping+Real+Apps+•+100%2B+Users+•+Production+Ready;From+Idea+→+Design+→+Code+→+Deploy+→+Scale" alt="Typing SVG" />
-</p>
+>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanalmutairi1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -176,9 +173,7 @@ I believe in building systems that are:
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanalmutairi1&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
