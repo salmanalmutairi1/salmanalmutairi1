@@ -34,7 +34,7 @@ Final semester **Software Engineering** student at **King Saud University** who 
   <a href="mailto:salmanmajed.sma@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://ksumarket.com">
+  <a href="https://swesalman.xyz">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
 </p>
